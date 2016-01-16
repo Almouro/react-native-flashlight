@@ -1,0 +1,15 @@
+{
+  "name": "react-native-flashlight",
+  "version": "0.1.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Almouro/react-native-flashlight.git"
+  },
+  "author": "Almouro <contact@almouro.com> (almouro.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Almouro/react-native-flashlight/issues"
+  },
+  "homepage": "https://github.com/Almouro/react-native-flashlight#readme"
+}
